@@ -7,5 +7,5 @@ Using exploratory and geospatial analysis, the full Jupyter Notebook presents fi
 The repository includes four parts:
 1) A full Jupyter Notebook including all steps and annotation
 2) .png outputs of all analysis charts and maps
-3) An output .csv file containing a table of job counts for each macro sector and the 2-digit NAICS sectors that fit within them.
+3) An output .xlsm file containing a table of job counts for each macro sector and the 2-digit NAICS sectors that fit within them.
 4) A PowerPoint presentation including analysis outputs
